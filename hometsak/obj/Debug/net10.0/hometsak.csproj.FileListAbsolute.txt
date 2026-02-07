@@ -1,0 +1,14 @@
+C:\Users\НР\Desktop\hometsak\obj\Debug\net10.0\hometsak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\НР\Desktop\hometsak\obj\Debug\net10.0\hometsak.AssemblyInfoInputs.cache
+C:\Users\НР\Desktop\hometsak\obj\Debug\net10.0\hometsak.AssemblyInfo.cs
+C:\Users\НР\Desktop\hometsak\obj\Debug\net10.0\hometsak.csproj.CoreCompileInputs.cache
+C:\Users\НР\Desktop\hometsak\bin\Debug\net10.0\hometsak.exe
+C:\Users\НР\Desktop\hometsak\bin\Debug\net10.0\hometsak.deps.json
+C:\Users\НР\Desktop\hometsak\bin\Debug\net10.0\hometsak.runtimeconfig.json
+C:\Users\НР\Desktop\hometsak\bin\Debug\net10.0\hometsak.dll
+C:\Users\НР\Desktop\hometsak\bin\Debug\net10.0\hometsak.pdb
+C:\Users\НР\Desktop\hometsak\obj\Debug\net10.0\hometsak.dll
+C:\Users\НР\Desktop\hometsak\obj\Debug\net10.0\refint\hometsak.dll
+C:\Users\НР\Desktop\hometsak\obj\Debug\net10.0\hometsak.pdb
+C:\Users\НР\Desktop\hometsak\obj\Debug\net10.0\hometsak.genruntimeconfig.cache
+C:\Users\НР\Desktop\hometsak\obj\Debug\net10.0\ref\hometsak.dll
